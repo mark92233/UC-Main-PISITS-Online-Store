@@ -20,7 +20,7 @@ Before you start, make sure you have the following installed on your computer:
 ### 1. Clone the Repository
 Open your terminal (or Git Bash) and clone the project to your computer, then move into the folder:
 ```bash
-git clone [https://github.com/your-username/org-store.git](https://github.com/your-username/org-store.git)
+git clone [https://github.com/mark92233/UC-Main-PISITS-Online-Store.git](https://github.com/mark92233/UC-Main-PISITS-Online-Store.git)
 cd org-store
 
 ```
@@ -108,7 +108,7 @@ Now, open your browser and go to: **`http://localhost:8000`**
 
 ---
 
-## 🗺️ Architecture Crash Course (Where do I write code?)
+## Architecture Crash Course (Where do I write code?)
 
 If you are new to Laravel + Inertia + React, here is where everything lives:
 
